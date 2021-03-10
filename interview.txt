@@ -1,0 +1,40 @@
+search algorithms
+	divide and conquer
+	merge sort
+	quick sort
+
+data structures
+	Arrays
+		manipulation
+	Stacks
+	Queues
+	Linked Lists
+		Single
+		Double
+		Circular
+	Trees
+	Graphs
+		breadth first search
+		depth first search
+		Dijkstras algorithm
+		Bellman-Ford algorithm
+		Floyd cycle detection algorithm
+		Brent's algorithm
+		Prim's algorithm
+		Kruskal's algorithm
+		Kahn's algorithm
+	Hash Tables
+	Hash Maps
+
+Dynamic Programming
+	coin problem
+
+Time Complexity
+
+Object Oriented Programming
+
+System Design Interview
+
+recursion
+	back tracking
+
